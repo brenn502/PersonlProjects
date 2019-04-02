@@ -2,6 +2,8 @@
 
 namespace DynamicProgramming
 {
+	//This method measures the edit distance between 2 strings.
+	//str1: test,  str2: best  => 1
     static class EditDistance
     {
         public static void Distance(string str1, string str2)
